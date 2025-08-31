@@ -1,0 +1,382 @@
+- highlevel
+  - danceability
+    - all
+      - danceable
+      - not_danceable
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - gender
+    - all
+      - female
+      - male
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - genre_dortmund
+    - all
+      - alternative
+      - blues
+      - electronic
+      - folkcountry
+      - funksoulrnb
+      - jazz
+      - pop
+      - raphiphop
+      - rock
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - genre_electronic
+    - all
+      - ambient
+      - dnb
+      - house
+      - techno
+      - trance
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - genre_rosamerica
+    - all
+      - cla
+      - dan
+      - hip
+      - jaz
+      - pop
+      - rhy
+      - roc
+      - spe
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - genre_tzanetakis
+    - all
+      - blu
+      - cla
+      - cou
+      - dis
+      - hip
+      - jaz
+      - met
+      - pop
+      - reg
+      - roc
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - ismir04_rhythm
+    - all
+      - ChaChaCha
+      - Jive
+      - Quickstep
+      - Rumba-American
+      - Rumba-International
+      - Rumba-Misc
+      - Samba
+      - Tango
+      - VienneseWaltz
+      - Waltz
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_acoustic
+    - all
+      - acoustic
+      - not_acoustic
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_aggressive
+    - all
+      - aggressive
+      - not_aggressive
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_electronic
+    - all
+      - electronic
+      - not_electronic
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_happy
+    - all
+      - happy
+      - not_happy
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_party
+    - all
+      - not_party
+      - party
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_relaxed
+    - all
+      - not_relaxed
+      - relaxed
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - mood_sad
+    - all
+      - not_sad
+      - sad
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - moods_mirex
+    - all
+      - Cluster1
+      - Cluster2
+      - Cluster3
+      - Cluster4
+      - Cluster5
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - timbre
+    - all
+      - bright
+      - dark
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - tonal_atonal
+    - all
+      - atonal
+      - tonal
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+  - voice_instrumental
+    - all
+      - instrumental
+      - voice
+    - probability
+    - value
+    - version
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+- metadata
+  - audio_properties
+    - analysis_sample_rate
+    - bit_rate
+    - codec
+    - downmix
+    - equal_loudness
+    - length
+    - lossless
+    - md5_encoded
+    - replay_gain
+    - sample_rate
+  - tags
+    - acoustid_id
+      [List of str]
+    - album
+      [List of str]
+    - albumartist
+      [List of str]
+    - albumartistsort
+      [List of str]
+    - artist
+      [List of str]
+    - artistsort
+      [List of str]
+    - artistwebpage
+      [List of str]
+    - barcode
+      [List of str]
+    - bpm
+      [List of str]
+    - catalognumber
+      [List of str]
+    - date
+      [List of str]
+    - discnumber
+      [List of str]
+    - file_name
+    - genre
+      [List of str]
+    - initialkey
+      [List of str]
+    - isrc
+      [List of str]
+    - label
+      [List of str]
+    - language
+      [List of str]
+    - media
+      [List of str]
+    - mood
+      [List of str]
+    - musicbrainz album release country
+      [List of str]
+    - musicbrainz album status
+      [List of str]
+    - musicbrainz album type
+      [List of str]
+    - musicbrainz_albumartistid
+      [List of str]
+    - musicbrainz_albumid
+      [List of str]
+    - musicbrainz_artistid
+      [List of str]
+    - musicbrainz_recordingid
+      [List of str]
+    - musicbrainz_releasegroupid
+      [List of str]
+    - originaldate
+      [List of str]
+    - originalyear
+      [List of str]
+    - script
+      [List of str]
+    - title
+      [List of str]
+    - tracknumber
+      [List of str]
+    - writer
+      [List of str]
+  - version
+    - highlevel
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
+      - gaia
+      - gaia_git_sha
+      - models_essentia_git_sha
+    - lowlevel
+      - essentia
+      - essentia_build_sha
+      - essentia_git_sha
+      - extractor
