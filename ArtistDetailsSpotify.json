@@ -1,0 +1,1748 @@
+{
+    "AC DC": {
+        "name": "AC DC",
+        "id": "5n5pQqEHcH3u2uHOrwMZ8s",
+        "genres": [],
+        "popularity": 0,
+        "followers": 734
+    },
+    "Aerosmith": {
+        "name": "Aerosmith",
+        "id": "7Ey4PD4MYsKc5I2dolUwbH",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "popularity": 77,
+        "followers": 15323180
+    },
+    "Alice in Chains": {
+        "name": "Alice In Chains",
+        "id": "64tNsm6TnZe2zpcMVMOoHL",
+        "genres": [
+            "grunge",
+            "post-grunge"
+        ],
+        "popularity": 77,
+        "followers": 5709911
+    },
+    "Anthrax": {
+        "name": "Anthrax",
+        "id": "3JysSUOyfVs1UQ0UaESheP",
+        "genres": [
+            "thrash metal",
+            "metal",
+            "speed metal",
+            "heavy metal",
+            "groove metal",
+            "rap metal"
+        ],
+        "popularity": 56,
+        "followers": 1789949
+    },
+    "Arcade Fire": {
+        "name": "Arcade Fire",
+        "id": "3kjuyTCjPG1WMFCiyc5IuB",
+        "genres": [
+            "indie rock",
+            "baroque pop"
+        ],
+        "popularity": 65,
+        "followers": 2358820
+    },
+    "Arctic Monkeys": {
+        "name": "Arctic Monkeys",
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "genres": [
+            "indie",
+            "garage rock"
+        ],
+        "popularity": 88,
+        "followers": 29569759
+    },
+    "Avenged Sevenfold": {
+        "name": "Avenged Sevenfold",
+        "id": "0nmQIMXWTXfhgOBdNzhGOs",
+        "genres": [
+            "metal",
+            "alternative metal",
+            "heavy metal"
+        ],
+        "popularity": 78,
+        "followers": 10624369
+    },
+    "Beck": {
+        "name": "Beck",
+        "id": "3vbKDsSS70ZX9D2OcvbZmS",
+        "genres": [],
+        "popularity": 67,
+        "followers": 1654557
+    },
+    "Beyonce": {
+        "name": "Beyonc\u00e9",
+        "id": "6vWDO969PvNqNYHIOW5v0m",
+        "genres": [],
+        "popularity": 87,
+        "followers": 39997285
+    },
+    "Biffy Clyro": {
+        "name": "Biffy Clyro",
+        "id": "1km0R7wy712AzLkA1WjKET",
+        "genres": [
+            "modern rock"
+        ],
+        "popularity": 59,
+        "followers": 736910
+    },
+    "Billy Joel": {
+        "name": "Billy Joel",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "genres": [
+            "soft rock"
+        ],
+        "popularity": 79,
+        "followers": 6783601
+    },
+    "Black Sabbath": {
+        "name": "Black Sabbath",
+        "id": "5M52tdBnJaKSvOpJGz8mfZ",
+        "genres": [
+            "metal",
+            "heavy metal",
+            "rock",
+            "stoner rock",
+            "doom metal",
+            "hard rock",
+            "classic rock"
+        ],
+        "popularity": 74,
+        "followers": 8723714
+    },
+    "blink-182": {
+        "name": "blink-182",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "genres": [
+            "pop punk",
+            "punk",
+            "emo pop",
+            "rock",
+            "skate punk",
+            "emo"
+        ],
+        "popularity": 78,
+        "followers": 8920647
+    },
+    "Bob Dylan": {
+        "name": "Bob Dylan",
+        "id": "74ASZWbe4lXaubB36ztrGX",
+        "genres": [
+            "folk rock",
+            "folk",
+            "singer-songwriter",
+            "roots rock",
+            "country rock"
+        ],
+        "popularity": 78,
+        "followers": 7024917
+    },
+    "Bon Jovi": {
+        "name": "Bon Jovi",
+        "id": "58lV9VcRSjABbAbfWS6skp",
+        "genres": [
+            "glam metal",
+            "rock"
+        ],
+        "popularity": 80,
+        "followers": 14876627
+    },
+    "Britney Spears": {
+        "name": "Britney Spears",
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 83,
+        "followers": 16427162
+    },
+    "Bruce Springsteen": {
+        "name": "Bruce Springsteen",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "genres": [],
+        "popularity": 77,
+        "followers": 6933695
+    },
+    "Bullet for My Valentine": {
+        "name": "Bullet For My Valentine",
+        "id": "7iWiAD5LLKyiox2grgfmUT",
+        "genres": [
+            "metalcore",
+            "metal",
+            "screamo"
+        ],
+        "popularity": 69,
+        "followers": 3331243
+    },
+    "Celine Dion": {
+        "name": "C\u00e9line Dion",
+        "id": "4S9EykWXhStSc15wEx8QFK",
+        "genres": [
+            "vari\u00e9t\u00e9 fran\u00e7aise"
+        ],
+        "popularity": 77,
+        "followers": 9655698
+    },
+    "Cheap Trick": {
+        "name": "Cheap Trick",
+        "id": "1LB8qB5BPb3MHQrfkvifXU",
+        "genres": [
+            "power pop",
+            "album rock",
+            "classic rock",
+            "glam rock"
+        ],
+        "popularity": 61,
+        "followers": 1586849
+    },
+    "Cher": {
+        "name": "Cher",
+        "id": "72OaDtakiy6yFqkt4TsiFt",
+        "genres": [],
+        "popularity": 71,
+        "followers": 3619276
+    },
+    "Children of Bodom": {
+        "name": "Children Of Bodom",
+        "id": "1xUhNgw4eJDZfvumIpcz1B",
+        "genres": [
+            "melodic death metal",
+            "metal",
+            "death metal",
+            "melodic metal"
+        ],
+        "popularity": 57,
+        "followers": 776096
+    },
+    "Coldplay": {
+        "name": "Coldplay",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "genres": [],
+        "popularity": 91,
+        "followers": 57529033
+    },
+    "David Bowie": {
+        "name": "David Bowie",
+        "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+        "genres": [
+            "glam rock",
+            "art rock"
+        ],
+        "popularity": 78,
+        "followers": 11289326
+    },
+    "Death Cab for Cutie": {
+        "name": "Death Cab for Cutie",
+        "id": "0YrtvWJMgSdVrk3SfNjTbx",
+        "genres": [],
+        "popularity": 63,
+        "followers": 1576623
+    },
+    "Deep Purple": {
+        "name": "Deep Purple",
+        "id": "568ZhdwyaiCyOGJRtNYhWf",
+        "genres": [
+            "hard rock",
+            "classic rock",
+            "rock"
+        ],
+        "popularity": 67,
+        "followers": 5805889
+    },
+    "Def Leppard": {
+        "name": "Def Leppard",
+        "id": "6H1RjVyNruCmrBEWRbD0VZ",
+        "genres": [
+            "glam metal",
+            "glam rock",
+            "classic rock"
+        ],
+        "popularity": 71,
+        "followers": 5384936
+    },
+    "Deftones": {
+        "name": "Deftones",
+        "id": "6Ghvu1VvMGScGpOUJBAHNH",
+        "genres": [
+            "nu metal",
+            "alternative metal",
+            "rap metal",
+            "shoegaze",
+            "rock"
+        ],
+        "popularity": 82,
+        "followers": 6728285
+    },
+    "Depeche Mode": {
+        "name": "Depeche Mode",
+        "id": "762310PdDnwsDxAQxzQkfX",
+        "genres": [
+            "new wave",
+            "synthpop",
+            "darkwave"
+        ],
+        "popularity": 75,
+        "followers": 6993515
+    },
+    "Disturbed": {
+        "name": "Disturbed",
+        "id": "3TOqt5oJwL9BE2NG9MEwDa",
+        "genres": [
+            "metal",
+            "nu metal",
+            "alternative metal",
+            "rap metal",
+            "hard rock",
+            "rock",
+            "heavy metal"
+        ],
+        "popularity": 78,
+        "followers": 7280960
+    },
+    "Dream Theater": {
+        "name": "Dream Theater",
+        "id": "2aaLAng2L2aWD2FClzwiep",
+        "genres": [
+            "progressive metal",
+            "progressive rock",
+            "metal"
+        ],
+        "popularity": 64,
+        "followers": 1705181
+    },
+    "Eagles": {
+        "name": "Eagles",
+        "id": "0ECwFtbIWEVNwjlrfc6xoL",
+        "genres": [
+            "classic rock",
+            "soft rock"
+        ],
+        "popularity": 77,
+        "followers": 11565966
+    },
+    "Editors": {
+        "name": "Editors",
+        "id": "6e9wIFWhBPHLE9bXK8gtBI",
+        "genres": [],
+        "popularity": 54,
+        "followers": 759031
+    },
+    "Elton John": {
+        "name": "Elton John",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "genres": [],
+        "popularity": 83,
+        "followers": 14653369
+    },
+    "Elton John and Billy Joel": {
+        "name": "Elton John",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "genres": [],
+        "popularity": 83,
+        "followers": 14653369
+    },
+    "Enter Shikari": {
+        "name": "Enter Shikari",
+        "id": "31jvzuB4ikftPQZJwrYfCF",
+        "genres": [
+            "post-hardcore",
+            "metalcore"
+        ],
+        "popularity": 56,
+        "followers": 479443
+    },
+    "Epica": {
+        "name": "Epica",
+        "id": "5HA5aLY3jJV7eimXWkRBBp",
+        "genres": [
+            "symphonic metal",
+            "gothic metal",
+            "symphonic rock",
+            "melodic metal",
+            "power metal",
+            "metal",
+            "folk metal"
+        ],
+        "popularity": 58,
+        "followers": 940021
+    },
+    "Eric Clapton": {
+        "name": "Eric Clapton",
+        "id": "6PAt558ZEZl0DmdXlnjMgD",
+        "genres": [
+            "blues",
+            "blues rock",
+            "classic rock"
+        ],
+        "popularity": 73,
+        "followers": 6287087
+    },
+    "Exodus": {
+        "name": "Exodus",
+        "id": "76S65NHJHrNy4JTrXHP2BH",
+        "genres": [
+            "thrash metal",
+            "speed metal",
+            "metal",
+            "groove metal",
+            "heavy metal"
+        ],
+        "popularity": 51,
+        "followers": 816588
+    },
+    "Faith No More": {
+        "name": "Faith No More",
+        "id": "6GbCJZrI318Ybm8mY36Of5",
+        "genres": [
+            "funk rock",
+            "alternative metal",
+            "rap metal",
+            "grunge"
+        ],
+        "popularity": 62,
+        "followers": 1900154
+    },
+    "Fall Out Boy": {
+        "name": "Fall Out Boy",
+        "id": "4UXqAaa6dQYAk18Lv7PEgX",
+        "genres": [
+            "emo",
+            "pop punk",
+            "emo pop"
+        ],
+        "popularity": 80,
+        "followers": 11203844
+    },
+    "Five Finger Death Punch": {
+        "name": "Five Finger Death Punch",
+        "id": "5t28BP42x2axFnqOOMg3CM",
+        "genres": [
+            "metal",
+            "groove metal",
+            "heavy metal",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 74,
+        "followers": 6718556
+    },
+    "Florence + the Machine": {
+        "name": "Florence + The Machine",
+        "id": "1moxjboGR7GNWYIMWsRjgG",
+        "genres": [
+            "baroque pop"
+        ],
+        "popularity": 80,
+        "followers": 7064977
+    },
+    "Foals": {
+        "name": "Foals",
+        "id": "6FQqZYVfTNQ1pCqfkwVFEa",
+        "genres": [
+            "indie"
+        ],
+        "popularity": 64,
+        "followers": 1443878
+    },
+    "Foo Fighters": {
+        "name": "Foo Fighters",
+        "id": "7jy3rLJdDQY21OgRLCZ9sD",
+        "genres": [
+            "rock",
+            "post-grunge",
+            "alternative rock",
+            "grunge",
+            "modern rock"
+        ],
+        "popularity": 78,
+        "followers": 12494367
+    },
+    "Frank Turner": {
+        "name": "Frank Turner",
+        "id": "27M9shmwhIjRo7WntpT9Rp",
+        "genres": [
+            "folk punk",
+            "acoustic rock"
+        ],
+        "popularity": 55,
+        "followers": 380985
+    },
+    "Frank Zappa": {
+        "name": "Frank Zappa",
+        "id": "6ra4GIOgCZQZMOaUECftGN",
+        "genres": [
+            "progressive rock",
+            "art rock",
+            "jazz fusion",
+            "psychedelic rock",
+            "avant-garde",
+            "experimental",
+            "symphonic rock"
+        ],
+        "popularity": 57,
+        "followers": 992962
+    },
+    "Franz Ferdinand": {
+        "name": "Franz Ferdinand",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "genres": [
+            "indie rock"
+        ],
+        "popularity": 70,
+        "followers": 2849069
+    },
+    "Garbage": {
+        "name": "Garbage",
+        "id": "6S0GHTqz5sxK5f9HtLXn9q",
+        "genres": [],
+        "popularity": 61,
+        "followers": 1277886
+    },
+    "Ghost": {
+        "name": "Ghost",
+        "id": "1Qp56T7n950O3EGMsSl81D",
+        "genres": [
+            "metal",
+            "hard rock"
+        ],
+        "popularity": 75,
+        "followers": 3496669
+    },
+    "Grateful Dead": {
+        "name": "Grateful Dead",
+        "id": "4TMHGUX5WI7OOm53PqSDAT",
+        "genres": [
+            "psychedelic rock",
+            "acid rock"
+        ],
+        "popularity": 67,
+        "followers": 1955158
+    },
+    "Green Day": {
+        "name": "Green Day",
+        "id": "7oPftvlwr6VrsViSDV7fJY",
+        "genres": [
+            "punk",
+            "pop punk"
+        ],
+        "popularity": 82,
+        "followers": 16398514
+    },
+    "Guns N' Roses": {
+        "name": "Guns N' Roses",
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "genres": [
+            "rock",
+            "glam metal",
+            "hard rock",
+            "classic rock"
+        ],
+        "popularity": 81,
+        "followers": 33458762
+    },
+    "Halestorm": {
+        "name": "Halestorm",
+        "id": "6om12Ev5ppgoMy3OYSoech",
+        "genres": [],
+        "popularity": 65,
+        "followers": 1549162
+    },
+    "Heart": {
+        "name": "Heart",
+        "id": "34jw2BbxjoYalTp8cJFCPv",
+        "genres": [
+            "classic rock",
+            "album rock",
+            "rock"
+        ],
+        "popularity": 69,
+        "followers": 2827596
+    },
+    "Helloween": {
+        "name": "Helloween",
+        "id": "4pQN0GB0fNEEOfQCaWotsY",
+        "genres": [
+            "power metal",
+            "speed metal",
+            "heavy metal",
+            "metal",
+            "melodic metal",
+            "symphonic metal"
+        ],
+        "popularity": 60,
+        "followers": 1328278
+    },
+    "HIM": {
+        "name": "HIM",
+        "id": "74aLweE8FHHf4yN5TWv1GM",
+        "genres": [
+            "gothic metal",
+            "finnish rock"
+        ],
+        "popularity": 63,
+        "followers": 883424
+    },
+    "Iced Earth": {
+        "name": "Iced Earth",
+        "id": "3KEixcRfBS5K3E91Vn1Kdy",
+        "genres": [
+            "power metal",
+            "heavy metal",
+            "metal",
+            "thrash metal",
+            "speed metal",
+            "melodic metal"
+        ],
+        "popularity": 47,
+        "followers": 377561
+    },
+    "Imagine Dragons": {
+        "name": "Imagine Dragons",
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "genres": [],
+        "popularity": 88,
+        "followers": 56840138
+    },
+    "In Flames": {
+        "name": "In Flames",
+        "id": "57ylwQTnFnIhJh4nu4rxCs",
+        "genres": [
+            "melodic death metal",
+            "metal",
+            "melodic metal",
+            "death metal",
+            "metalcore"
+        ],
+        "popularity": 64,
+        "followers": 1255742
+    },
+    "Incubus": {
+        "name": "Incubus",
+        "id": "3YcBF2ttyueytpXtEzn1Za",
+        "genres": [
+            "nu metal",
+            "funk rock",
+            "alternative metal",
+            "alternative rock"
+        ],
+        "popularity": 71,
+        "followers": 3488425
+    },
+    "Interpol": {
+        "name": "Interpol",
+        "id": "3WaJSfKnzc65VDgmj2zU8B",
+        "genres": [
+            "indie rock",
+            "post-punk",
+            "modern rock"
+        ],
+        "popularity": 63,
+        "followers": 1783869
+    },
+    "Iron Maiden": {
+        "name": "Iron Maiden",
+        "id": "6mdiAmATAx73kdxrNrnlao",
+        "genres": [
+            "heavy metal",
+            "metal",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 74,
+        "followers": 9862731
+    },
+    "Jane's Addiction": {
+        "name": "Jane's Addiction",
+        "id": "02NfyD6AlLA12crYzw5YcR",
+        "genres": [
+            "funk rock",
+            "grunge"
+        ],
+        "popularity": 56,
+        "followers": 1482993
+    },
+    "Jethro Tull": {
+        "name": "Jethro Tull",
+        "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+        "genres": [
+            "progressive rock",
+            "symphonic rock",
+            "art rock",
+            "classic rock"
+        ],
+        "popularity": 59,
+        "followers": 1938566
+    },
+    "Jimmy Eat World": {
+        "name": "Jimmy Eat World",
+        "id": "3Ayl7mCk0nScecqOzvNp6s",
+        "genres": [
+            "emo",
+            "pop punk",
+            "emo pop"
+        ],
+        "popularity": 69,
+        "followers": 1700452
+    },
+    "Journey": {
+        "name": "Journey",
+        "id": "0rvjqX7ttXeg3mTy8Xscbt",
+        "genres": [
+            "album rock",
+            "classic rock"
+        ],
+        "popularity": 76,
+        "followers": 6098769
+    },
+    "Judas Priest": {
+        "name": "Judas Priest",
+        "id": "2tRsMl4eGxwoNabM08Dm4I",
+        "genres": [
+            "heavy metal",
+            "metal",
+            "hard rock",
+            "glam metal",
+            "speed metal"
+        ],
+        "popularity": 67,
+        "followers": 4326802
+    },
+    "Kaiser Chiefs": {
+        "name": "Kaiser Chiefs",
+        "id": "0LbLWjaweRbO4FDKYlbfNt",
+        "genres": [
+            "britpop",
+            "indie rock"
+        ],
+        "popularity": 60,
+        "followers": 1361504
+    },
+    "Kasabian": {
+        "name": "Kasabian",
+        "id": "11wRdbnoYqRddKBrpHt4Ue",
+        "genres": [
+            "britpop",
+            "indie",
+            "indie rock"
+        ],
+        "popularity": 62,
+        "followers": 1850380
+    },
+    "Killswitch Engage": {
+        "name": "Killswitch Engage",
+        "id": "37394IP6uhnjIpsawpMu4l",
+        "genres": [
+            "metalcore",
+            "metal"
+        ],
+        "popularity": 67,
+        "followers": 2064117
+    },
+    "Kings of Leon": {
+        "name": "Kings of Leon",
+        "id": "2qk9voo8llSGYcZ6xrBzKx",
+        "genres": [
+            "modern rock"
+        ],
+        "popularity": 77,
+        "followers": 5625419
+    },
+    "KISS": {
+        "name": "KISS",
+        "id": "07XSN3sPlIlB2L2XNcTwJw",
+        "genres": [
+            "glam metal",
+            "glam rock",
+            "hard rock",
+            "rock",
+            "classic rock"
+        ],
+        "popularity": 73,
+        "followers": 10367839
+    },
+    "Korn": {
+        "name": "Korn",
+        "id": "3RNrq3jvMZxD9ZyoOZbQOD",
+        "genres": [
+            "nu metal",
+            "metal",
+            "rap metal",
+            "alternative metal"
+        ],
+        "popularity": 78,
+        "followers": 8823023
+    },
+    "Lacuna Coil": {
+        "name": "Lacuna Coil",
+        "id": "4OAddazJM576euUnFSvXSL",
+        "genres": [
+            "gothic metal",
+            "symphonic metal",
+            "metal",
+            "symphonic rock",
+            "melodic metal"
+        ],
+        "popularity": 58,
+        "followers": 748147
+    },
+    "Lady Gaga": {
+        "name": "Lady Gaga",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "genres": [
+            "art pop",
+            "pop"
+        ],
+        "popularity": 94,
+        "followers": 36259842
+    },
+    "Lamb of God": {
+        "name": "Lamb of God",
+        "id": "3JFsVIxOn7STeilPICkkB2",
+        "genres": [
+            "groove metal",
+            "metal",
+            "heavy metal",
+            "nu metal",
+            "death metal"
+        ],
+        "popularity": 64,
+        "followers": 2211854
+    },
+    "Limp Bizkit": {
+        "name": "Limp Bizkit",
+        "id": "165ZgPlLkK7bf5bDoFc6Sb",
+        "genres": [
+            "nu metal",
+            "rap metal",
+            "alternative metal",
+            "rap rock"
+        ],
+        "popularity": 79,
+        "followers": 7094933
+    },
+    "Linkin Park": {
+        "name": "Linkin Park",
+        "id": "6XyY86QOPPrYVGvF9ch6wz",
+        "genres": [
+            "nu metal",
+            "rap metal",
+            "rock",
+            "alternative metal"
+        ],
+        "popularity": 90,
+        "followers": 29388781
+    },
+    "Lynyrd Skynyrd": {
+        "name": "Lynyrd Skynyrd",
+        "id": "4MVyzYMgTwdP7Z49wAZHx0",
+        "genres": [
+            "southern rock",
+            "classic rock",
+            "rock"
+        ],
+        "popularity": 74,
+        "followers": 5574736
+    },
+    "Madonna": {
+        "name": "Madonna",
+        "id": "6tbjWDEIzxoDsBA1FuhfPW",
+        "genres": [],
+        "popularity": 80,
+        "followers": 8453485
+    },
+    "Marilyn Manson": {
+        "name": "Marilyn Manson",
+        "id": "2VYQTNDsvvKN9wmU5W7xpj",
+        "genres": [
+            "industrial metal",
+            "industrial rock",
+            "industrial",
+            "metal",
+            "nu metal"
+        ],
+        "popularity": 71,
+        "followers": 4724770
+    },
+    "Mastodon": {
+        "name": "Mastodon",
+        "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+        "genres": [
+            "progressive metal",
+            "sludge metal",
+            "metal",
+            "stoner rock",
+            "groove metal"
+        ],
+        "popularity": 60,
+        "followers": 986960
+    },
+    "Megadeth": {
+        "name": "Megadeth",
+        "id": "1Yox196W7bzVNZI7RBaPnf",
+        "genres": [
+            "thrash metal",
+            "metal",
+            "heavy metal",
+            "speed metal"
+        ],
+        "popularity": 71,
+        "followers": 5818216
+    },
+    "Metallica": {
+        "name": "Metallica",
+        "id": "2ye2Wgw4gimLv2eAKyk1NB",
+        "genres": [
+            "metal",
+            "thrash metal",
+            "rock",
+            "heavy metal",
+            "hard rock"
+        ],
+        "popularity": 84,
+        "followers": 30309859
+    },
+    "Motley Crue": {
+        "name": "M\u00f6tley Cr\u00fce",
+        "id": "0cc6vw3VN8YlIcvr1v7tBL",
+        "genres": [
+            "glam metal",
+            "glam rock",
+            "hard rock"
+        ],
+        "popularity": 73,
+        "followers": 5628302
+    },
+    "Motorhead": {
+        "name": "Mot\u00f6rhead",
+        "id": "1DFr97A9HnbV3SKTJFu62M",
+        "genres": [
+            "heavy metal",
+            "speed metal",
+            "metal",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 66,
+        "followers": 4287935
+    },
+    "Muse": {
+        "name": "Muse",
+        "id": "12Chz98pHFMPJEknJQMWvI",
+        "genres": [
+            "alternative rock",
+            "rock"
+        ],
+        "popularity": 77,
+        "followers": 8208622
+    },
+    "Neil Young": {
+        "name": "Neil Young",
+        "id": "6v8FB84lnmJs434UJf2Mrm",
+        "genres": [
+            "classic rock",
+            "folk rock",
+            "singer-songwriter",
+            "roots rock"
+        ],
+        "popularity": 70,
+        "followers": 3175220
+    },
+    "New Found Glory": {
+        "name": "New Found Glory",
+        "id": "4ghjRm4M2vChDfTUycx0Ce",
+        "genres": [
+            "pop punk",
+            "emo pop",
+            "punk",
+            "emo"
+        ],
+        "popularity": 59,
+        "followers": 875192
+    },
+    "Nick Cave & The Bad Seeds": {
+        "name": "Nick Cave & The Bad Seeds",
+        "id": "4UXJsSlnKd7ltsrHebV79Q",
+        "genres": [],
+        "popularity": 64,
+        "followers": 1516213
+    },
+    "Nickelback": {
+        "name": "Nickelback",
+        "id": "6deZN1bslXzeGvOLaLMOIF",
+        "genres": [
+            "post-grunge",
+            "rock"
+        ],
+        "popularity": 80,
+        "followers": 7471983
+    },
+    "Nightwish": {
+        "name": "Nightwish",
+        "id": "2NPduAUeLVsfIauhRwuft1",
+        "genres": [
+            "symphonic metal",
+            "gothic metal",
+            "power metal",
+            "symphonic rock",
+            "melodic metal",
+            "metal",
+            "folk metal"
+        ],
+        "popularity": 67,
+        "followers": 2342292
+    },
+    "Nine Inch Nails": {
+        "name": "Nine Inch Nails",
+        "id": "0X380XXQSNBYuleKzav5UO",
+        "genres": [
+            "industrial rock",
+            "industrial",
+            "industrial metal",
+            "alternative metal",
+            "electronic rock",
+            "nu metal"
+        ],
+        "popularity": 69,
+        "followers": 2854155
+    },
+    "Noel Gallagher's High Flying Birds": {
+        "name": "Noel Gallagher's High Flying Birds",
+        "id": "7sjttK1WcZeyLPn3IsQ62L",
+        "genres": [
+            "britpop",
+            "madchester"
+        ],
+        "popularity": 60,
+        "followers": 1004536
+    },
+    "NOFX": {
+        "name": "NOFX",
+        "id": "4S2yOnmsWW97dT87yVoaSZ",
+        "genres": [
+            "punk",
+            "skate punk",
+            "ska punk",
+            "ska",
+            "melodic hardcore",
+            "hardcore punk"
+        ],
+        "popularity": 60,
+        "followers": 1124322
+    },
+    "Oasis": {
+        "name": "Oasis",
+        "id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "genres": [
+            "britpop",
+            "madchester",
+            "rock"
+        ],
+        "popularity": 79,
+        "followers": 11412620
+    },
+    "Opeth": {
+        "name": "Opeth",
+        "id": "0ybFZ2Ab08V8hueghSXm6E",
+        "genres": [
+            "progressive metal",
+            "progressive rock",
+            "metal",
+            "death metal",
+            "melodic death metal"
+        ],
+        "popularity": 59,
+        "followers": 1050175
+    },
+    "Ozzy Osbourne": {
+        "name": "Ozzy Osbourne",
+        "id": "6ZLTlhejhndI4Rh53vYhrY",
+        "genres": [
+            "metal",
+            "glam metal",
+            "heavy metal",
+            "hard rock"
+        ],
+        "popularity": 73,
+        "followers": 6217115
+    },
+    "Papa Roach": {
+        "name": "Papa Roach",
+        "id": "4RddZ3iHvSpGV4dvATac9X",
+        "genres": [
+            "nu metal",
+            "rap metal",
+            "alternative metal",
+            "rap rock",
+            "rock"
+        ],
+        "popularity": 75,
+        "followers": 5703124
+    },
+    "Paramore": {
+        "name": "Paramore",
+        "id": "74XFHRwlV6OrjEM0A2NCMF",
+        "genres": [
+            "pop punk",
+            "emo",
+            "emo pop"
+        ],
+        "popularity": 81,
+        "followers": 9274401
+    },
+    "Paul McCartney": {
+        "name": "Paul McCartney",
+        "id": "4STHEaNw4mPZ2tzheohgXB",
+        "genres": [],
+        "popularity": 72,
+        "followers": 5087474
+    },
+    "Pearl Jam": {
+        "name": "Pearl Jam",
+        "id": "1w5Kfo2jwwIPruYS2UWh56",
+        "genres": [
+            "grunge",
+            "rock",
+            "post-grunge"
+        ],
+        "popularity": 76,
+        "followers": 9484051
+    },
+    "Peter Gabriel": {
+        "name": "Peter Gabriel",
+        "id": "7C4sUpWGlTy7IANjruj02I",
+        "genres": [
+            "art rock"
+        ],
+        "popularity": 65,
+        "followers": 1862317
+    },
+    "Pink Floyd": {
+        "name": "Pink Floyd",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "genres": [
+            "progressive rock",
+            "psychedelic rock",
+            "classic rock",
+            "symphonic rock",
+            "art rock",
+            "rock"
+        ],
+        "popularity": 81,
+        "followers": 21792775
+    },
+    "Pixies": {
+        "name": "Pixies",
+        "id": "6zvul52xwTWzilBZl6BUbT",
+        "genres": [
+            "alternative rock"
+        ],
+        "popularity": 70,
+        "followers": 3325981
+    },
+    "PJ Harvey": {
+        "name": "PJ Harvey",
+        "id": "12VaqyEhgwDRuFfEqbnrpz",
+        "genres": [
+            "art pop",
+            "singer-songwriter"
+        ],
+        "popularity": 60,
+        "followers": 1161748
+    },
+    "Placebo": {
+        "name": "Placebo",
+        "id": "6RZUqkomCmb8zCRqc9eznB",
+        "genres": [
+            "britpop"
+        ],
+        "popularity": 65,
+        "followers": 2036538
+    },
+    "Primus": {
+        "name": "Primus",
+        "id": "64mPnRMMeudAet0E62ypkx",
+        "genres": [
+            "funk rock",
+            "alternative metal",
+            "alternative rock",
+            "nu metal"
+        ],
+        "popularity": 59,
+        "followers": 1257441
+    },
+    "Queen": {
+        "name": "Queen",
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "genres": [
+            "classic rock",
+            "rock",
+            "glam rock"
+        ],
+        "popularity": 85,
+        "followers": 53432735
+    },
+    "Queens of the Stone Age": {
+        "name": "Queens of the Stone Age",
+        "id": "4pejUc4iciQfgdX6OKulQn",
+        "genres": [
+            "stoner rock",
+            "alternative rock"
+        ],
+        "popularity": 71,
+        "followers": 3706902
+    },
+    "Queensryche": {
+        "name": "Queensr\u00ffche",
+        "id": "2OgUPVlWYgGBGMefZgGvCO",
+        "genres": [
+            "progressive metal",
+            "glam metal",
+            "heavy metal",
+            "metal",
+            "progressive rock",
+            "hard rock"
+        ],
+        "popularity": 57,
+        "followers": 706994
+    },
+    "R.E.M.": {
+        "name": "R.E.M.",
+        "id": "4KWTAlx2RvbpseOGMEmROg",
+        "genres": [
+            "jangle pop",
+            "alternative rock",
+            "rock"
+        ],
+        "popularity": 75,
+        "followers": 5046082
+    },
+    "Radiohead": {
+        "name": "Radiohead",
+        "id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "genres": [
+            "art rock",
+            "alternative rock"
+        ],
+        "popularity": 85,
+        "followers": 11792161
+    },
+    "Rammstein": {
+        "name": "Rammstein",
+        "id": "6wWVKhxIU2cEi0K81v7HvP",
+        "genres": [
+            "industrial metal",
+            "metal",
+            "industrial rock",
+            "industrial"
+        ],
+        "popularity": 80,
+        "followers": 11105068
+    },
+    "Red Hot Chili Peppers": {
+        "name": "Red Hot Chili Peppers",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "genres": [
+            "funk rock",
+            "alternative rock",
+            "rock"
+        ],
+        "popularity": 84,
+        "followers": 22291457
+    },
+    "Rise Against": {
+        "name": "Rise Against",
+        "id": "6Wr3hh341P84m3EI8qdn9O",
+        "genres": [
+            "punk",
+            "hardcore punk"
+        ],
+        "popularity": 72,
+        "followers": 2857953
+    },
+    "Rob Zombie": {
+        "name": "Rob Zombie",
+        "id": "3HVdAiMNjYrQIKlOGxoGh5",
+        "genres": [
+            "industrial metal",
+            "industrial rock",
+            "alternative metal",
+            "metal",
+            "nu metal"
+        ],
+        "popularity": 69,
+        "followers": 3380503
+    },
+    "Roger Waters": {
+        "name": "Roger Waters",
+        "id": "40DqL6Tv84cKT2pH2NMs9r",
+        "genres": [
+            "progressive rock",
+            "symphonic rock",
+            "art rock"
+        ],
+        "popularity": 53,
+        "followers": 1534822
+    },
+    "Rush": {
+        "name": "Rush",
+        "id": "2Hkut4rAAyrQxRdof7FVJq",
+        "genres": [
+            "progressive rock",
+            "classic rock",
+            "rock",
+            "hard rock",
+            "album rock"
+        ],
+        "popularity": 67,
+        "followers": 2456003
+    },
+    "Scorpions": {
+        "name": "Scorpions",
+        "id": "27T030eWyCQRmDyuvr1kxY",
+        "genres": [
+            "hard rock",
+            "glam metal",
+            "rock"
+        ],
+        "popularity": 75,
+        "followers": 7997303
+    },
+    "Sigur Ros": {
+        "name": "Sigur R\u00f3s",
+        "id": "6UUrUCIZtQeOf8tC0WuzRy",
+        "genres": [
+            "post-rock",
+            "dream pop"
+        ],
+        "popularity": 57,
+        "followers": 1395653
+    },
+    "Slayer": {
+        "name": "Slayer",
+        "id": "1IQ2e1buppatiN1bxUVkrk",
+        "genres": [
+            "thrash metal",
+            "metal",
+            "speed metal",
+            "heavy metal",
+            "groove metal",
+            "death metal"
+        ],
+        "popularity": 67,
+        "followers": 4259382
+    },
+    "Slipknot": {
+        "name": "Slipknot",
+        "id": "05fG473iIaoy82BF1aGhL8",
+        "genres": [
+            "nu metal",
+            "metal",
+            "alternative metal",
+            "rap metal",
+            "heavy metal"
+        ],
+        "popularity": 81,
+        "followers": 12979182
+    },
+    "Soundgarden": {
+        "name": "Soundgarden",
+        "id": "5xUf6j4upBrXZPg6AI4MRK",
+        "genres": [
+            "grunge",
+            "post-grunge",
+            "hard rock"
+        ],
+        "popularity": 70,
+        "followers": 4778794
+    },
+    "System of a Down": {
+        "name": "System Of A Down",
+        "id": "5eAWCfyUhZtHHtBdNk56l1",
+        "genres": [
+            "nu metal",
+            "metal",
+            "alternative metal",
+            "rap metal",
+            "rock"
+        ],
+        "popularity": 82,
+        "followers": 12613265
+    },
+    "Taylor Swift": {
+        "name": "Taylor Swift",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "genres": [],
+        "popularity": 97,
+        "followers": 134933600
+    },
+    "Testament": {
+        "name": "Testament",
+        "id": "28hJdGN1Awf7u3ifk2lVkg",
+        "genres": [
+            "thrash metal",
+            "metal",
+            "speed metal",
+            "groove metal",
+            "heavy metal"
+        ],
+        "popularity": 56,
+        "followers": 1172587
+    },
+    "The Black Keys": {
+        "name": "The Black Keys",
+        "id": "7mnBLXK823vNxN3UWB7Gfz",
+        "genres": [
+            "blues rock",
+            "garage rock",
+            "modern blues",
+            "rock"
+        ],
+        "popularity": 72,
+        "followers": 4110121
+    },
+    "The Cult": {
+        "name": "The Cult",
+        "id": "49DW3KvkyjHO35mK1JnSyS",
+        "genres": [
+            "hard rock",
+            "glam metal"
+        ],
+        "popularity": 60,
+        "followers": 779110
+    },
+    "The Cure": {
+        "name": "The Cure",
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "genres": [
+            "new wave",
+            "post-punk",
+            "darkwave"
+        ],
+        "popularity": 76,
+        "followers": 6242217
+    },
+    "The Flaming Lips": {
+        "name": "The Flaming Lips",
+        "id": "16eRpMNXSQ15wuJoeqguaB",
+        "genres": [
+            "psychedelic pop"
+        ],
+        "popularity": 56,
+        "followers": 835220
+    },
+    "The Killers": {
+        "name": "The Killers",
+        "id": "0C0XlULifJtAgn6ZNCW2eu",
+        "genres": [
+            "alternative rock"
+        ],
+        "popularity": 79,
+        "followers": 7757975
+    },
+    "The National": {
+        "name": "The National",
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "genres": [
+            "indie rock"
+        ],
+        "popularity": 66,
+        "followers": 1665060
+    },
+    "The Offspring": {
+        "name": "The Offspring",
+        "id": "5LfGQac0EIXyAN8aUwmNAQ",
+        "genres": [
+            "punk",
+            "skate punk"
+        ],
+        "popularity": 78,
+        "followers": 6219287
+    },
+    "The Rolling Stones": {
+        "name": "The Rolling Stones",
+        "id": "22bE4uQ6baNwSHPVcDxLCe",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "popularity": 80,
+        "followers": 15128021
+    },
+    "The Smashing Pumpkins": {
+        "name": "The Smashing Pumpkins",
+        "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+        "genres": [
+            "alternative rock",
+            "rock"
+        ],
+        "popularity": 75,
+        "followers": 5686632
+    },
+    "The Used": {
+        "name": "The Used",
+        "id": "55VydwMyCuGcavwPuhutPL",
+        "genres": [
+            "emo",
+            "screamo",
+            "post-hardcore",
+            "emo pop",
+            "pop punk",
+            "emocore"
+        ],
+        "popularity": 63,
+        "followers": 1257469
+    },
+    "The Who": {
+        "name": "The Who",
+        "id": "67ea9eGLXYMsO2eYQRui3w",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "popularity": 69,
+        "followers": 5645266
+    },
+    "Thirty Seconds to Mars": {
+        "name": "Thirty Seconds To Mars",
+        "id": "0RqtSIYZmd4fiBKVFqyIqD",
+        "genres": [
+            "modern rock"
+        ],
+        "popularity": 70,
+        "followers": 3768621
+    },
+    "Tina Turner": {
+        "name": "Tina Turner",
+        "id": "1zuJe6b1roixEKMOtyrEak",
+        "genres": [],
+        "popularity": 71,
+        "followers": 4520808
+    },
+    "Tom Petty and the Heartbreakers": {
+        "name": "Tom Petty and the Heartbreakers",
+        "id": "4tX2TplrkIP4v05BNC903e",
+        "genres": [
+            "classic rock"
+        ],
+        "popularity": 70,
+        "followers": 2961506
+    },
+    "Tool": {
+        "name": "TOOL",
+        "id": "2yEwvVSSSUkcLeSTNyHKh8",
+        "genres": [
+            "progressive metal",
+            "alternative metal",
+            "progressive rock",
+            "metal"
+        ],
+        "popularity": 73,
+        "followers": 4170267
+    },
+    "Trivium": {
+        "name": "Trivium",
+        "id": "278ZYwGhdK6QTzE3MFePnP",
+        "genres": [
+            "metal",
+            "metalcore",
+            "heavy metal"
+        ],
+        "popularity": 63,
+        "followers": 1653581
+    },
+    "twenty one pilots": {
+        "name": "Twenty One Pilots",
+        "id": "3YQKmKGau1PzlVlkL1iodx",
+        "genres": [],
+        "popularity": 83,
+        "followers": 25212609
+    },
+    "Two Door Cinema Club": {
+        "name": "Two Door Cinema Club",
+        "id": "536BYVgOnRky0xjsPT96zl",
+        "genres": [
+            "indie"
+        ],
+        "popularity": 69,
+        "followers": 2514899
+    },
+    "U.D.O.": {
+        "name": "U.D.O.",
+        "id": "2aWjaq32aRQo58dw0w8NM6",
+        "genres": [
+            "heavy metal",
+            "power metal",
+            "speed metal",
+            "metal"
+        ],
+        "popularity": 45,
+        "followers": 223096
+    },
+    "U2": {
+        "name": "U2",
+        "id": "51Blml2LZPmy7TTiAg47vQ",
+        "genres": [
+            "rock"
+        ],
+        "popularity": 78,
+        "followers": 13129289
+    },
+    "Umphrey's McGee": {
+        "name": "Umphrey's McGee",
+        "id": "7mQilAy42MqNPqUFqK4Z0o",
+        "genres": [
+            "newgrass"
+        ],
+        "popularity": 43,
+        "followers": 207490
+    },
+    "Van Halen": {
+        "name": "Van Halen",
+        "id": "2cnMpRsOVqtPMfq7YiFE6K",
+        "genres": [
+            "glam metal",
+            "classic rock",
+            "rock",
+            "hard rock"
+        ],
+        "popularity": 74,
+        "followers": 6523314
+    },
+    "Velvet Revolver": {
+        "name": "Velvet Revolver",
+        "id": "7CHilrn81OdYjkh4uSVnYM",
+        "genres": [
+            "grunge"
+        ],
+        "popularity": 54,
+        "followers": 1551009
+    },
+    "Volbeat": {
+        "name": "Volbeat",
+        "id": "0L5fC7Ogm2YwgqVCRcF1bT",
+        "genres": [
+            "rock",
+            "metal"
+        ],
+        "popularity": 72,
+        "followers": 2646432
+    },
+    "Weezer": {
+        "name": "Weezer",
+        "id": "3jOstUTkEu2JkjvRdBA5Gu",
+        "genres": [
+            "alternative rock"
+        ],
+        "popularity": 75,
+        "followers": 4186303
+    },
+    "Weird Al Yankovic": {
+        "name": "\"Weird Al\" Yankovic",
+        "id": "1bDWGdIC2hardyt55nlQgG",
+        "genres": [
+            "comedy",
+            "polka"
+        ],
+        "popularity": 58,
+        "followers": 974221
+    },
+    "Whitesnake": {
+        "name": "Whitesnake",
+        "id": "3UbyYnvNIT5DFXU4WgiGpP",
+        "genres": [
+            "glam metal",
+            "hard rock",
+            "glam rock"
+        ],
+        "popularity": 65,
+        "followers": 3170871
+    },
+    "Wilco": {
+        "name": "Wilco",
+        "id": "2QoU3awHVdcHS8LrZEKvSM",
+        "genres": [
+            "alt country",
+            "americana",
+            "indie rock"
+        ],
+        "popularity": 61,
+        "followers": 794591
+    },
+    "Within Temptation": {
+        "name": "Within Temptation",
+        "id": "3hE8S8ohRErocpkY7uJW4a",
+        "genres": [
+            "symphonic metal",
+            "gothic metal",
+            "symphonic rock",
+            "melodic metal",
+            "metal",
+            "power metal"
+        ],
+        "popularity": 63,
+        "followers": 1366676
+    },
+    "Yellowcard": {
+        "name": "Yellowcard",
+        "id": "3zxKH0qp3nBCuPZCZT5Vaf",
+        "genres": [
+            "pop punk",
+            "emo pop",
+            "punk",
+            "emo"
+        ],
+        "popularity": 64,
+        "followers": 1582711
+    },
+    "Yes": {
+        "name": "Yes",
+        "id": "7AC976RDJzL2asmZuz7qil",
+        "genres": [
+            "progressive rock",
+            "symphonic rock",
+            "art rock",
+            "album rock"
+        ],
+        "popularity": 62,
+        "followers": 2004867
+    },
+    "Yo La Tengo": {
+        "name": "Yo La Tengo",
+        "id": "5hAhrnb0Ch4ODwWu4tsbpi",
+        "genres": [
+            "dream pop",
+            "slowcore"
+        ],
+        "popularity": 54,
+        "followers": 544982
+    },
+    "You Me at Six": {
+        "name": "You Me At Six",
+        "id": "1kNQXvepPjaPgUfeDAF2h6",
+        "genres": [
+            "pop punk"
+        ],
+        "popularity": 60,
+        "followers": 709187
+    },
+    "ZZ Top": {
+        "name": "ZZ Top",
+        "id": "2AM4ilv6UzW0uMRuqKtDgN",
+        "genres": [
+            "southern rock",
+            "classic rock",
+            "blues rock",
+            "rock"
+        ],
+        "popularity": 71,
+        "followers": 4712015
+    }
+}
